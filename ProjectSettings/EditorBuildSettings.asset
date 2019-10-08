@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/OpenScreen.unity
+    guid: ec79efe580fa7ba4dba1e23ba5acbe9e
+  - enabled: 1
+    path: Assets/Scenes/Fase1Exercicio1.unity
+    guid: a2066961f65e6a24f94d553f6be7bb36
+  - enabled: 1
+    path: Assets/Scenes/Fase1Exercicio2.unity
+    guid: bc3d318fbd1a7df4aa244d59af504c61
+  - enabled: 1
+    path: Assets/Scenes/Fase1Exercicio3.unity
+    guid: d63591d1e8c68ea4dbb7a439bc332b94
+  - enabled: 1
+    path: Assets/Scenes/Fase1Exercicio4.unity
+    guid: e731668fa6f155749bc4d603997df717
+  - enabled: 1
+    path: Assets/Scenes/Fase1Exercicio5.unity
+    guid: cfd8ac092c99706459b9873c4a192dfd
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: c29837cd34ae7bb4b80ef132cb44db68
   m_configObjects: {}
